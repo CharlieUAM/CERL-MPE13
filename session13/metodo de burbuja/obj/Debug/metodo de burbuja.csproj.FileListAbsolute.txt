@@ -1,0 +1,11 @@
+C:\Users\labc202\Documents\CERL\sesion13\session13\metodo de burbuja\bin\Debug\metodo de burbuja.exe.config
+C:\Users\labc202\Documents\CERL\sesion13\session13\metodo de burbuja\bin\Debug\metodo de burbuja.exe
+C:\Users\labc202\Documents\CERL\sesion13\session13\metodo de burbuja\bin\Debug\metodo de burbuja.pdb
+C:\Users\labc202\Documents\CERL\sesion13\session13\metodo de burbuja\obj\Debug\metodo de burbuja.csproj.AssemblyReference.cache
+C:\Users\labc202\Documents\CERL\sesion13\session13\metodo de burbuja\obj\Debug\metodo de burbuja.csproj.SuggestedBindingRedirects.cache
+C:\Users\labc202\Documents\CERL\sesion13\session13\metodo de burbuja\obj\Debug\metodo_de_burbuja.Form1.resources
+C:\Users\labc202\Documents\CERL\sesion13\session13\metodo de burbuja\obj\Debug\metodo_de_burbuja.Properties.Resources.resources
+C:\Users\labc202\Documents\CERL\sesion13\session13\metodo de burbuja\obj\Debug\metodo de burbuja.csproj.GenerateResource.cache
+C:\Users\labc202\Documents\CERL\sesion13\session13\metodo de burbuja\obj\Debug\metodo de burbuja.csproj.CoreCompileInputs.cache
+C:\Users\labc202\Documents\CERL\sesion13\session13\metodo de burbuja\obj\Debug\metodo de burbuja.exe
+C:\Users\labc202\Documents\CERL\sesion13\session13\metodo de burbuja\obj\Debug\metodo de burbuja.pdb
